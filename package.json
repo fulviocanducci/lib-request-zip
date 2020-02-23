@@ -1,0 +1,23 @@
+{
+  "name": "viacep",
+  "version": "1.0.0",
+  "description": "Via Cep Request Data Zip",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fulviocanducci/lib-request-zip.git"
+  },
+  "keywords": [
+    "zip",
+    "request"
+  ],
+  "author": "canducci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fulviocanducci/lib-request-zip/issues"
+  },
+  "homepage": "https://github.com/fulviocanducci/lib-request-zip#readme"
+}
